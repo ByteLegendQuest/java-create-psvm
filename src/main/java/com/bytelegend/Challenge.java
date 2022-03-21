@@ -1,3 +1,3 @@
-package com.bytelegend;
+public static woid main(String[] args) {
 
-public class Challenge {}
+}
