@@ -1,3 +1,11 @@
 package com.bytelegend;
 
-public class Challenge {}
+public class main {
+    
+    public static void main(String[] args){
+
+    system.out.println("Hello World!");
+        }
+    
+    }
+
