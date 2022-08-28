@@ -1,6 +1,9 @@
 package com.bytelegend;
 
 public class Challenge {}
-public static void main() {
+class main{
+    public static void main() {
         
     }
+
+}
