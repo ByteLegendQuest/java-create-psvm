@@ -1,7 +1,7 @@
 package com.bytelegend;
 
-public class Challenge {
-    public static void main(string[] args){
-        
+public class Challenge  {
+    public static void main(string[] args) {
+
     }
 }
